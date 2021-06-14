@@ -13,8 +13,8 @@ using namespace std;
 int main(int argc, const char * argv[]) {
     // insert code here...
     
-    int num1;
-    int num2;
+    double num1;
+    double num2;
     int choice;
     bool calcLoop (true);
     
